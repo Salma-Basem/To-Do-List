@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Salma/Documents/flutter/toDOO/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Salma/Documents/flutter/toDOO/app/src/main/res/layout/activity_settings.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Salma/Documents/flutter/toDOO/app/src/main/res/layout/activity_splash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Salma/Documents/flutter/toDOO/app/src/main/res/layout/new_task.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Salma/Documents/flutter/toDOO/app/src/main/res/layout/taskslayouts3.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="corretto-15" project-jdk-type="JavaSDK" />
+</project>
